@@ -1,0 +1,62 @@
+*{ 
+	box-sizing: border-box; 
+	}
+body{
+ 	font-size: 22px; 
+ 	font-family: 'Amita';
+ }
+.navbar-collapse {
+    margin-bottom: -7px;
+}
+.navbar-toggle{
+	border: 2px solid black;
+}
+.navbar-toggle .icon-bar{
+	background-color: black;
+	border: 2px solid black;
+}
+.navbar-right{
+	background-color: white; 
+	border: 2px solid black;
+} 
+#menu{ 
+	background: #999;
+}
+#brand{
+	font-size: 1.5em;
+	color: #000;
+}
+#page-heading{
+	font-size: 1em;
+	color: #000;
+}
+.row{
+	margin-top: 30px;
+}
+#col-content{ 
+	background: #999;
+}
+hr{  
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+b{  
+	color: #000;
+}
+h3{ 
+	padding-top: 10px;
+    color: #000;
+    text-align: center;
+}
+p{ 
+	padding: 20px;
+	color: #000;
+}
+button{ 
+	border: 1px solid #000;
+}
+.main{
+text-align: center;
+
+}
+
